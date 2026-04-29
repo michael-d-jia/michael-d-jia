@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I’m a Computer Science student at Northeastern University with experience in software engineering and database optimization. I’ve built Python-based tools, optimized PostgreSQL workflows, and developed projects in machine learning and C.<br><br>Skilled in Python, Java, SQL, and Git, I’m interested in backend development, data engineering, and machine learning.  Seeking Spring 2026 co-op and Summer 2026 internship opportunities.</p>
+<p align="left">I’m a Computer Science student at Northeastern University with experience in software engineering and database optimization. I’ve built Python-based tools, optimized PostgreSQL workflows, and developed projects in machine learning and C.<br><br>Skilled in Python, Java, SQL, and Git, I’m interested in backend development, data engineering, and machine learning.  Seeking Fall 2026 co-op and Summer 2026 internship opportunities.</p>
 
 ###
 
