@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=CS+AND+MATH+%40+Northeastern+University;Building+Backend+Systems+%26+APIs;Available+for+Co-op+or+Internship+May–Dec+2027)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=CS+%2B+MATH+%40+Northeastern+University;Building+Backend+Systems+%26+APIs;Available+for+Co-op+or+Internship+May–Dec+2027)](https://git.io/typing-svg)
 
 </div>
 
